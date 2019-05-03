@@ -1,3 +1,5 @@
+#Self-Study/Essay Questions
+
 ## What are PropTypes used for? Please describe why it's important to type check out data in Javascript.  
 PropTypes are used to check the data type that we are passing down as state and props to ensure that we can throw early errors if data of the wrong type is passed. It's a test.  
 
